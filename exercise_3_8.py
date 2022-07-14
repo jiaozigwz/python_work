@@ -1,0 +1,15 @@
+#放眼世界
+place=['西藏','云南','成都','北极','芬兰']
+print(place)
+print(sorted(place))
+print(place)
+print(sorted(place,reverse=True))
+print(place)
+place.reverse()
+print(place)
+place.reverse()
+print(place)
+place.sort()
+print(place)
+place.sort(reverse=True)
+print(place)
